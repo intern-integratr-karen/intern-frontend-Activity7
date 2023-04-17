@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: Arial;
+}
+:root {
+    --bs-white: #fff;
+    --bs-black: #000;
+    --bs-blue: #0d6efd;
+}
+
+.Container img {
+    width: 180px;
+    height: 90px;
+
+}
+
+.Container li {
+    display: inline-block;
+    
+}
+
+.Container a {
+    text-decoration: none;
+    color: rgb(207, 207, 214);
+    width: 80px;
+    display: block;
+    padding: 10px 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: arial;
+    text-align: center;
+    font-size: 14px
+    
+}
+.btn-group a {
+    padding-left: 50px;
+    float: left;
+}
+
+.column {
+    float: left;
+    width: 40%;
+    
+}
+
+.background img {
+    height: 650px;
+    width: 1500px;
+}
+
+.background button {
+    padding-left: 10px;
+    width: 120px;
+   
+
+}
